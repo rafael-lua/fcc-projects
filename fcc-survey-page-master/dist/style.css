@@ -1,0 +1,45 @@
+/*
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+#main {
+  margin: 0;
+  padding: 2em;
+  background: linear-gradient(0deg, White, Azure, Azure, White);
+}
+
+#title {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  line-height: 0.5em;
+}
+
+#description {
+  text-align: center;
+  font-size: 1em;
+  font-family: 'Roboto', sans-serif;
+  font-style: italic;
+  color: grey;
+}
+
+#form-area {
+  margin: 2em auto;
+  padding: 2em;
+  width: 85%;
+  background-color: rgba(0, 0, 0, 0.05);
+  border: 3px solid grey;
+  font-family: 'Open Sans', sans-serif;
+  box-shadow: 2px 3px 5px 3px lightgrey; 
+}
+
+.field {
+  width: 90%;
+}
+
+.form-label {
+  font-weight: 900;
+  font-size: 1.2em;
+  display:inline-block;
+  margin-top: 1.1em;
+}
