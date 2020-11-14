@@ -12,3 +12,7 @@ A survey web page project made for the **Responsive Web Design Certification** f
 ### 3) fcc-product-landing
 
 A product landing page project made for the **Responsive Web Design Certification** from *freeCodeCamp.org*
+
+### 4) fcc-technical-documentation
+
+A technical documentation page project made for the **Responsive Web Design Certification** from *freeCodeCamp.org*
